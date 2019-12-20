@@ -1,0 +1,63 @@
+{
+  "title": "Stratis",
+  "description": "Easy-to-use, local storage management for Linux",
+  "details": {
+    "steps": [
+      {
+        "title": "Getting Started",
+        "text": "step1.md"
+      },
+      {
+        "text": "step2.md"
+      },
+      {
+        "title": "Pool Operations",
+        "text": "step3.md"
+      },
+      {
+        "text": "step4.md"
+      },
+      {
+        "title": "Filesystem Operations",
+        "text": "step5.md"
+      },
+      {
+        "title": "Step 6",
+        "text": "step6.md"
+      },
+      {
+        "title": "Step 7",
+        "text": "step7.md"
+      },
+      {
+        "title": "Step 8",
+        "text": "step8.md"
+      },
+      {
+        "title": "Step 9",
+        "text": "step9.md"
+      },
+      {
+        "title": "Step 10",
+        "text": "step10.md"
+      },
+      {
+        "title": "Step 11",
+        "text": "step11.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md",
+      "credits": "__Author:__ Grace Chin, Software Engineering Intern (Red Hat)"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "rhel8"
+  }
+}
