@@ -2,7 +2,7 @@
 
 A snapshot of a filesystem is a read/writeable thinly provisioned point in time copy of the source filesystem. To create a snapshot, you will need the name of the pool in which the filesystem is located, the name of the filesystem, and the name of the snapshot of the filesystem.
 
-Create a snapshot of the filesystem. This snapshot will be named my_snapshot.
+Create a snapshot of the filesystem. Name the snapshot __my_snapshot__.
 
 `stratis filesystem snapshot my_pool my_fs my_snapshot`{{execute}}
 
