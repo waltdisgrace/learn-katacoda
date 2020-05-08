@@ -1,6 +1,6 @@
 # Enable and Start the Stratis Daemon
 
-Now, enable and start the stratisd systemd service using the systemctl utility.
+Now, enable and start the stratisd systemd service using the `systemctl` utility.
 
 `systemctl --now enable stratisd`{{execute}}
 
@@ -23,7 +23,7 @@ Additionally, you can connect to the running daemon and have it report its versi
 `stratis daemon version`{{execute}}
 
 <pre class="file">
-2.0.0
+ 2.0.0
 </pre>
 
 In the above output, the daemon reports that the version of stratisd is 2.0.0.
